@@ -7,7 +7,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../components/login.css">
+    <!-- <link rel="stylesheet" href="../components/login.css"> -->
+    <link rel="stylesheet" href="../../components/login.css">
     <title>Mylove</title>
 </head>
 <body>
@@ -36,7 +37,7 @@
         <? } ?>
         <!-- foi trocado o "<a>" por um <button> para tentativa de debug -->
           <!-- <a href="valida_login.php"> -->
-        <button href="valida_login.php" type="submit">
+        <button type="submit">
            <span></span>
             <span></span>
             <span></span>
