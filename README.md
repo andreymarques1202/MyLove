@@ -3,3 +3,4 @@ favicon posicionado;
 correção de navegação estática;
 correção em paginas duplicas;
 preparação para o sistema de rotas;
+realizados: teste de integração/teste de sistema;
